@@ -1,0 +1,6 @@
+framework module dim {
+  umbrella header "dim-umbrella.h"
+
+  export *
+  module * { export * }
+}
